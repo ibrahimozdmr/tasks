@@ -9,3 +9,6 @@
   **3.** Yerleşim düzeni [odev3layout](odev3layout)
   >Flutter'da yerleşim düzeni ile ilgili öğrneği yapınız
   https://docs.flutter.dev/development/ui/layout/tutorial
+
+  **4.** Splash Screen ve login sayfası birleşimi [odev4splashscreen](odev4splashscreen)
+  >[Ekte](odev4splashscreen/ek.png) verilen ekran görüntüsünü splash screen ve sonrasında login sayfasını temel görünümü flutterda kodlayınız

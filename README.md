@@ -12,3 +12,8 @@
 
   **4.** Splash Screen ve login sayfası birleşimi [odev4splashscreen](odev4splashscreen)
   >[Ekte](odev4splashscreen/ek.png) verilen ekran görüntüsünü splash screen ve sonrasında login sayfasını temel görünümü flutterda kodlayınız
+
+  **6.** Flutter Codelabs de "First Flutter App" part1 ve part2 kısımları yap. [odev6firstFlutterApp](odev6firstFlutterApp/)
+  <img src="/odev6firstFlutterApp/firstproject1/odev1.gif" width="250"> <img src="/odev6firstFlutterApp/firstproject2/odev2.gif" width="250">
+
+  

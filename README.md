@@ -16,4 +16,6 @@
   **6.** Flutter Codelabs de "First Flutter App" part1 ve part2 kısımları yap. [odev6firstFlutterApp](odev6firstFlutterApp/)
   <img src="/odev6firstFlutterApp/firstproject1/odev1.gif" width="250"> <img src="/odev6firstFlutterApp/firstproject2/odev2.gif" width="250">
 
-  
+  **7.** Flutterda verilen login sayfası resminin uygulamasını yapılması ve ikinci sayfada girilen bilgilerin gösterilmesi. [odev7login](odev7login/)
+
+  <img src="/odev7login/login-form.png" width="247"> <img src="/odev7login/login.gif" width="300">
